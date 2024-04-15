@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "254594139884",
+    "project_id": "quizapp-hafsa",
+    "storage_bucket": "quizapp-hafsa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254594139884:android:d8be84f9e21b87e208c7c9",
+        "android_client_info": {
+          "package_name": "com.example.quizapp_khallouki"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOuiPzeimE65UpRxN6Pf0QQZxDxR8oFQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
